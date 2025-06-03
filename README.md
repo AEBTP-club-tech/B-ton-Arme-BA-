@@ -6,6 +6,10 @@ Une application Python pour le calcul de sections en béton armé selon l'Euroco
 
 Cette application permet de calculer les sections d'armatures nécessaires pour des éléments en béton armé soumis à la flexion simple. Elle implémente les méthodes de calcul selon l'Eurocode 2 et offre une interface graphique moderne et intuitive.
 
+## Aperçu de l'interface
+
+![Aperçu de l'interface](Interface.png)
+
 ## Fonctionnalités
 
 ### Calculs disponibles
@@ -42,7 +46,7 @@ Cette application permet de calculer les sections d'armatures nécessaires pour 
 
 1. Clonez le dépôt :
 ```bash
-git clone [URL_DU_REPO]
+git clone "https://github.com/AEBTP-club-tech/B-ton-Arme-BA-.git"
 ```
 
 2. Installez les dépendances :
